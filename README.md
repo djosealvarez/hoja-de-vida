@@ -1,18 +1,20 @@
 ![banner final](https://github.com/djosealvarez/djosealvarez/assets/37003948/71b62d8b-140d-424b-a71e-56f39d203576)
 
-### Hey👋, I'm Devon
+## Hey👋, I'm Devon
 #
 
 I'm a teacher in computer science and audiovisual media. I'm currently training in *QA Automation* 💻
 
+### About me
 #
 
+ 💻I like programming and the IT world
  
  🌱 I’m currently learning  Google Cloud Platform
  
  💻I am studying backend development at alura latam
- 
- 
+
+ ⚽ I like to play football
  
  🤔 I am looking to learn a little more about QA automation every day
  
