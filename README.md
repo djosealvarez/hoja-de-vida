@@ -32,7 +32,7 @@ I'm a teacher in computer science and audiovisual media. I'm currently training 
 ---
 ## 🚀💻 Technologies & Tools
 
-### <u> Languages: </u>
+
 
 <br>
 
