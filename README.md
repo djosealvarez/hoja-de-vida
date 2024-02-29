@@ -2,4 +2,4 @@
 
 ### Hey👋, I'm Devon
 
-I'm a teacher in computer science and audiovisual media. I'm currently training in *QA Automation*
+I'm a teacher in computer science and audiovisual media. I'm currently training in *QA Automation* 💻
