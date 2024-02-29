@@ -4,9 +4,8 @@
 #
 
 I'm a teacher in computer science and audiovisual media. I'm currently training in *QA Automation* 💻
-
-### About me
 #
+### About me
 
  💻I like programming and the IT world
  
